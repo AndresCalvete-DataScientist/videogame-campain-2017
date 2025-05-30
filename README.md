@@ -33,6 +33,7 @@ Este proyecto evidencia competencias clave en ciencia de datos, particularmente 
 - **NumPy**: operaciones numéricas y estadísticas.
 - **scipy.stats**: pruebas de hipótesis estadísticas.
 - **Jupyter Notebook**: entorno para análisis interactivo y documentación del proceso.
+- **Métodos clave**: `.info()`, `.value_counts()`, `.sort_values()`, `.groupby()`, `.corr()`, `.mean()`, `.median()`, `.std()`, `.boxplot()`, `.barplot()`, `.lineplot()`, `.heatplot()`, `.scatterplot()`.
 
 ---
 
